@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-groq
+langchain-huggingface
+langchain-openai
+langchain-text-splitters
+langchainhub
+langgraph
+sentence-transformers
+python-dotenv
+PyPDF2
+google-generativeai
+faiss-cpu
+bcrypt
+streamlit
